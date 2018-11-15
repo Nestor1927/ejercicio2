@@ -3,8 +3,7 @@
   margin: 0;
   padding: 0;
 }
-
-/*PAGINA DE INICIO*/
+/*FONDOS*/
 main{
   background-color: aqua;
   width: 650px;
@@ -23,6 +22,18 @@ footer{
   padding-left: 50px;
   padding-bottom: 50px;
 }
+.pagina5{
+  background-color: gold;
+  width: 650px;
+  height: 800px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+
+
+/*PAGINA DE INICIO*/
 /*PARATE DE ARRIBA*/
 main>article {
   width: 180px;
@@ -505,6 +516,150 @@ footer>la>ja>de{
   margin-left: 5px;
   margin-top: 12px;
 }
+
+
+/*PAGINA 5*/
+/*PARTE IZQUIERDA SUPERIOR*/
+.pagina5>g{
+  width: 200px;
+  height: 600px;
+  background-color: bisque;
+  display: inline-block;
+  margin-top: 2px;
+  margin-left: 1px;
+  vertical-align: top;
+}
+.pagina5>g>qa{
+  width: 80px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>qar{
+  width: 65px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.pagina5>g>qa>w{
+  width: 45px;
+  height: 45px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 16px;
+  border-radius:50%; 
+}
+.pagina5>g>qar>e{
+  width: 45px;
+  height: 100px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 10px;
+  border-radius:45%; 
+}
+.pagina5>g>r{
+  width: 160px;
+  height: 90px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 2px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>r>r{
+  width: 70px;
+  height: 70px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 5px;
+  border-radius:50%; 
+}
+.pagina5>g>t{
+  width: 65px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>t>t{
+  width: 45px;
+  height: 45px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 10px;
+  border-radius:50%;
+}
+.pagina5>g>tu{
+  width: 80px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.pagina5>g>tu>tu{
+  width: 45px;
+  height: 45px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 17px;
+  border-radius:50%;
+}
+.pagina5>g>y{
+  width: 160px;
+  height: 230px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>y>y{
+  width: 60px;
+  height: 60px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:15px;
+  margin-left: 13px;
+  border-radius:50%;
+}
+.pagina5>g>y>yu{
+  width: 60px;
+  height: 40px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 7px;
+  margin-left: 50px;
+  vertical-align: top;
+}
+.pagina5>g>y>ya{
+  width: 125px;
+  height: 70px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+
+
+
+
+/*COSAS NUEVAS*/
 nav{
   background-color: #FF1744;
   text-align:center;
