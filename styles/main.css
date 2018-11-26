@@ -959,13 +959,203 @@ footer>la>ja>de{
   border-radius:50%;
 }
 
-/*PAGINA 6*/
-
-
+/*SEXTA PAGINA*/
+.pagina6{
+  background-color: #D6EC0B;
+  width: 650px;
+  height: 800px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+}
+.pagina6>article {
+  width: 126px;
+  height: 133px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 8px;
+  padding-right: 8px;
+  vertical-align: top;
+}
+.pagina6>article>div {
+  width: 49px;
+  height: 44px;
+  background-color: blue;
+  margin: 17px 7px ;
+  border-radius:50%;
+  display:inline-block;
+}
+.pagina6>article>section {
+  width: 38px;
+  height: 39px;
+  background-color: #D40924;
+  display: inline-block;
+  border: 2px solid blue;
+}
+.pagina6>nav {
+  width: 321px;
+  height: 133px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px ; 
+}
+.pagina6>nav>main {
+  width: 20px;
+  height: 20px;
+  background-color: #D40924;
+  display: inline-block;
+  margin: 26px 5px ;
+}
+.pagina6>nav>main>aside {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  margin: -14px -48px ;
+  border-radius:50%;
+}
+.pagina6>.cc {
+  width: 126px;
+  height: 250px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.cc>.ccc {
+  width: 106px;
+  height: 230px;
+  background-color: red;
+  display: inline-block;
+  margin: 10px 9px 
+}
+.pagina6>.cc>.ccc>.circulo {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  margin: 30px 17px ;
+  border-radius:50%;
+}
+.pagina6>.cc>.xccc {
+  width: 106px;
+  height: 78px;
+  background-color: red;
+  display: inline-block;
+  margin: 10px 9px 
+}
+.pagina6>.cc>.xccc>.xcirculo {
+  width: 60px;
+  height: 60px;
+  background-color: blue;
+  margin: 9px 23px ;
+  border-radius:50%;
+}
+.pagina6>.cc>.xxccc {
+  width: 106px;
+  height: 138px;
+  background-color: red;
+  display: inline-block;
+  margin: 0px 9px 
+}
+.pagina6>.cc>.xxccc>.xxcirculo {
+  width: 55px;
+  height: 55px;
+  background-color: blue;
+  margin: 10px 25px ;
+  border-radius:50%;
+}
+.pagina6>.xcc {
+  width: 157px;
+  height: 250px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.xcc>.gcirculo {
+  width: 155px;
+  height: 155px;
+  background-color: blue;
+  margin: 43px 1px ;
+  border-radius:50%;
+}
+.pagina6>.xxcc {
+  width: 119px;
+  height: 250px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.xxcc>.doscirculos {
+  width: 75px;
+  height: 75px;
+  background-color: blue;
+  margin: 13px 21px ;
+  border-radius:50%;
+}
+.pagina6>.xxcc>.ovalo {
+  width: 113px;
+  height: 51px;
+  background-color: blue;
+  margin: 13px 3px ;
+  border-radius:50%;
+}
+.pagina6>.grande {
+  width: 618px;
+  height: 390px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.grande>.cuadros {
+  width: 117px;
+  height: 124px;
+  background-color: yellow;
+  display: inline-block;
+  margin: 40px 6px;
+  padding-left: 20px;
+}
+.pagina6>.grande>.cuadros>.bola {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  margin: 17px 20px ;
+  border-radius:50%;
+}
+.pagina6>.grande>.cuadros>.cuadritos {
+  width: 30px;
+  height: 30px;
+  background-color: #D40924;
+  display: inline-block;
+  border: 2px solid blue;
+  margin: -3px
+}
+.pagina6>.grande>.rectangulos {
+  width: 291px;
+  height: 166px;
+  background-color: yellow;
+  display: inline-block;
+  margin: -10px 6px;
+}
+.pagina6>.grande>.rectangulos>.xrectangulos {
+  width: 259px;
+  height: 136px;
+  background-color: red;
+  display: inline-block;
+  margin: 15px 14px;
+}
+.pagina6>.grande>.rectangulos>.xrectangulos>.pepas {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  margin: 34px 3px ;
+  display: inline-block;
+  border-radius:50%
+}
 /*COSAS NUEVAS*/
 nav{
   background-color: #FF1744;
-  text-align:center;
+  text-align:center
 }
 nav ul li {
   display: inline-block;
