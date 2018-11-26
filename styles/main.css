@@ -570,7 +570,7 @@ footer>la>ja>de{
   height: 90px;
   background-color: black;
   display: inline-block;
-  margin-top: 2px;
+  margin-top: 5px;
   margin-left: 20px;
   vertical-align: top;
 }
@@ -621,7 +621,7 @@ footer>la>ja>de{
 }
 .pagina5>g>y{
   width: 160px;
-  height: 230px;
+  height: 220px;
   background-color: black;
   display: inline-block;
   margin-top:10px;
@@ -629,26 +629,26 @@ footer>la>ja>de{
   vertical-align: top;
 }
 .pagina5>g>y>y{
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
   background-color: yellow;
   display: inline-block;
   margin-top:15px;
-  margin-left: 13px;
+  margin-left: 7px;
   border-radius:50%;
 }
 .pagina5>g>y>yu{
-  width: 60px;
+  width: 65px;
   height: 40px;
   background-color: yellow;
   display: inline-block;
   margin-top: 7px;
-  margin-left: 50px;
+  margin-left: 48px;
   vertical-align: top;
 }
 .pagina5>g>y>ya{
   width: 125px;
-  height: 70px;
+  height: 50px;
   background-color: yellow;
   display: inline-block;
   margin-top: 10px;
@@ -656,7 +656,310 @@ footer>la>ja>de{
   vertical-align: top;
 }
 
+/*PARTE SUPERIOR DEL MEDIO*/
+.pagina5>g>ye{
+  width: 165px;
+  height: 175px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>ye>y{
+  width: 60px;
+  height: 60px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 16px;
+  border-radius:50%;
+}
+.pagina5>g>ye>yi{
+  width: 30px;
+  height: 35px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 2px;
+  margin-left: 70px;
+  vertical-align: top;
+}
+.pagina5>g>ye>ya{
+  width: 125px;
+  height: 40px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 23px;
+  vertical-align: top;
+}
+.pagina5>g>ta{
+  width: 73px;
+  height: 130px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 18px;
+  vertical-align: top;
+}.pagina5>g>ta>te{
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:7px;
+  margin-left: 10px;
+  border-radius:50%;
+}
+.pagina5>g>ra{
+  width: 169px;
+  height: 90px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 18px;
+  vertical-align: top;
+}
+.pagina5>g>ra>ra{
+  width: 70px;
+  height: 70px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius:50%; 
+}
+.pagina5>g>te{
+  width: 73px;
+  height: 125px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 18px;
+  vertical-align: top;
+}
+.pagina5>g>te>te{
+  width: 50px;
+  height: 100px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 12px;
+  border-radius:50%; 
+}
 
+/*PARTE SUPERIOR DERECHO*/
+.pagina5>g>u{
+  width: 73px;
+  height: 70px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>u>u{
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 12px;
+  border-radius:50%; 
+}
+.pagina5>g>uq{
+  width: 50px;
+  height: 70px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 18px;
+  vertical-align: top;
+}
+.pagina5>g>uq>uq{
+  width: 30px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius:50%; 
+}
+.pagina5>g>uw{
+  width: 145px;
+  height: 95px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>uw>uw{
+  width: 35px;
+  height: 35px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 8px;
+  margin-left: 25px;
+  border-radius:50%;
+}
+.pagina5>g>ue{
+  width: 145px;
+  height: 115px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>ue>ue{
+  width: 95px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 8px;
+  margin-left: 25px;
+}
+.pagina5>g>ue>ue>ue{
+  width: 80px;
+  height: 40px;
+  background-color: black;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 8px;
+  vertical-align: top;
+  border-radius:50%; 
+}
+.pagina5>g>ue>ur{
+  width: 40px;
+  height: 40px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 8px;
+  margin-left: 50px;
+  border-radius:50%;
+}
+.pagina5>g>ut{
+  width: 73px;
+  height: 225px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>ut>ut{
+  width: 55px;
+  height: 55px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 8px;
+  border-radius:50%;
+}
+.pagina5>g>uy{
+  width: 55px;
+  height: 225px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 13px;
+  vertical-align: top;
+}
+
+
+/*PARTE INFERIOR*/
+.pagina5>h{
+  width: 610px;
+  height: 220px;
+  background-color: bisque;
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 1px;
+  vertical-align: top;
+}
+.pagina5>h>ye{
+  width: 150px;
+  height: 170px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>h>ye>ye{
+  width: 60px;
+  height: 60px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 10px;
+  border-radius:50%;
+}
+.pagina5>h>ye>yq{
+  width: 125px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 12px;
+  border-radius:50%;
+}
+.pagina5>h>yw{
+  width: 170px;
+  height: 170px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.pagina5>h>yw>yw{
+  width: 65px;
+  height: 65px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 12px;
+  border-radius:50%;
+}
+.pagina5>h>yw>yr{
+  width: 130px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 15px;
+  border-radius:50%;
+}
+.pagina5>h>yt{
+  width: 215px;
+  height: 170px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 10px;
+  vertical-align: top; 
+}
+.pagina5>h>yt>yt{
+  width: 170px;
+  height: 110px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 22px;
+  vertical-align: top;
+}
+.pagina5>h>yt>yt>yt{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 1px;
+  border-radius:50%;
+}
+
+/*PAGINA 6*/
 
 
 /*COSAS NUEVAS*/
